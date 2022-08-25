@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Urvashi Goswami
-- 👀 I’m interested in putting everything into programming.:)
+- 👀 I’m interested in software and web development.
 - 🌱 I’m currently working to contribute to open source projects.
 - 💞️ I’m looking to collaborate with programmers.
 - 📫 How to reach me : LinkedIn
