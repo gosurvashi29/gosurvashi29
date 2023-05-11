@@ -2,7 +2,7 @@
 
 <html>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=051015&width=435&lines=Hey!+It's+Urvashi!%F0%9F%91%8B+;I'm+a+Full+Stack+Developer.+;I'm+a+Machine++Learning+Engineer." alt="Typing SVG" /></a>
-</html>
+
 
 
 ## 🧐 About
@@ -185,3 +185,4 @@ I have got varied skills.I am conscientious, flexible, quick to pick up new skil
 gosurvashi29/gosurvashi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</html>
